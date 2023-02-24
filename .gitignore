@@ -1,6 +1,8 @@
 *
 
+!.gitattributes
 !.gitignore
+!LICENSE
 !Cargo.toml
 !src
 !src/**
